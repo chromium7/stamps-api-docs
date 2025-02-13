@@ -34,4 +34,5 @@ Contents
    cards_api.rst
    messages_api.rst
    store_api.rst
+   merchant_api.rst
    testing.rst
